@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Hit Master",
+  "description": "Mobile-first cricket batting game. Master your timing, smash sixes, build combos, and conquer challenging bowlers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
